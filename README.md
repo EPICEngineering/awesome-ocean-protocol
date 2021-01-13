@@ -10,3 +10,4 @@ Awesome Artefacts on Ocean Protocol
 
 ## Toolkits
 - https://github.com/oceanprotocol/ocean.py
+- https://github.com/oceanprotocol/ipfs
